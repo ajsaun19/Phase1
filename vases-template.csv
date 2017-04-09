@@ -5,14 +5,14 @@ BeazleyNumber,MuseumID,shape,findspot,comments
 67,Munich 2403,Stamnoi,Vulci,
 68,Vatican,Stamnoi, ,
 69,Wurzburg 540,Dinos,Vulci,Peleus and Thetis
-70,London-Lawrence,Hydriai,Greece,Athena and boy 
-71,Lost,Hydriai, ,Mistress and maid
-72,New York 49.11.6,Hydriai, ,Youth with spear(Theseus?) pursuing a woman
-73,Mariemont G 131,Hydriai, , Nike
-74,Montpellier S.A. 132,Oinochoai, ,Dionysos and maenad-Early
-75,Vienna 350,Oinochoai, ,Maenad
-76,London E 523,Oinochoai,Vulci,Goddess and winged goddess
-77,Louvre G 438,Oinochoai,Vulci,Eos and Tithonos
+70,London-Lawrence,Hydriai(Large),Greece,Athena and boy 
+71,Lost,Hydriai(Small), ,Mistress and maid
+72,New York 49.11.6,Hydriai(Small), ,Youth with spear(Theseus?) pursuing a woman
+73,Mariemont G 131,Hydriai(Small), , Nike
+74,Montpellier S.A. 132,Oinochoai(Shape 1), ,Dionysos and maenad-Early
+75,Vienna 350,Oinochoai(Shape 1), ,Maenad
+76,London E 523,Oinochoai(Shape 2-high handle),Vulci,Goddess and winged goddess
+77,Louvre G 438,Oinochoai(Shape 2-high handle),Vulci,Eos and Tithonos
 78,Athens Agora P 5729, Oinochoai,Athens,Dionysos and satyr
 79,Cambridge 37.29, Lekythoi, ,Athena and Nike. Restored. Earlier
 80,Syracuse 21186, Lekythoi, Gela,Artemis and woman

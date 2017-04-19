@@ -1,34 +1,34 @@
 BeazleyNumber,MuseumID,shape,findspot,comments,PleiadesID
-64,Palermo,Fragment,Selinus,chariot of Diomede-with Athena
-65,London E 448,Stamnoi,Vulci,warrior leaving home
-66,Florence 3988,Stamnoi, ,Dionysos with satyr and maenad
-67,Munich 2403,Stamnoi,Vulci,
-68,Vatican,Stamnoi, ,
-69,Wurzburg 540,Dinos,Vulci,Peleus and Thetis
-70,London-Lawrence,Hydriai(Large),Greece,Athena and boy 
-71,Lost,Hydriai(Small), ,Mistress and maid
-72,New York 49.11.6,Hydriai(Small), ,Youth with spear(Theseus?) pursuing a woman
-73,Mariemont G 131,Hydriai(Small), , Nike
-74,Montpellier S.A. 132,Oinochoai(Shape 1), ,Dionysos and maenad-Early
-75,Vienna 350,Oinochoai(Shape 1), ,Maenad
-76,London E 523,Oinochoai(Shape 2-high handle),Vulci,Goddess and winged goddess
-77,Louvre G 438,Oinochoai(Shape 2-high handle),Vulci,Eos and Tithonos
-78,Athens Agora P 5729, Oinochoai(Shape 3-chous),Athens,Dionysos and satyr
-79,Cambridge 37.29, Lekythoi, ,Athena and Nike. Restored. Earlier(RF)
-80,Syracuse 21186, Lekythoi, Gela,Artemis and woman(RF)
-81,Cambridge 37.30,Lekythoi, ,Hermes and woman(Hebe?)(RF)
-82,Oxford 324,Lekythoi,Marion,Aphrodite on the swan(RF)
-83,Palermo,Lekythoi,Selinus,Herakles and Athena(RF)
-84,Boston 01.8077,Lekythoi,Selinus,Zeus pursuing a woman(RF)
-85,Syracuse 21870, Lekythoi,Gela,Woman fleeing(RF)
-86,Bonn,Lekythoi,Bonn,Woman fleeing to the right and looking around(RF)
-87,Syracuse 21133, Lekythoi,Gela,Young warrior pursuing a woman(RF)
-88,Villa Giulia,Lekythoi, ,Eos and Kephalos looking around(RF) 
-89,Munich,Lekythoi,Athens,youth running and looking around(RF)
-90,Arlesheim,Lekythoi,Arlesheim,Oedipus and the Sphinx(RF)
-91,Louvre G 444,Lekythoi, ,Nike and warrior. On the shoulder. Two women and two males.large(RF)
-92,Syracuse 19894,Lekythoi, ,Nike and youth(RF)
-93,Oxford 1938.909,Lekythoi,Gela,Youth leaving home(RF)
-94,Oxford 1920.104,Lekythoi, ,Youth leaving home(RF)
-95,Philadelphia 30.51.2,Lekythoi, ,Horseman(RF)
-96,Athens 1293,Lekythoi,Eretria,Youth riding to tomb(RF)
+64,Palermo,Fragment,Selinus,chariot of Diomede-with Athena,462489
+65,London E 448,Stamnoi,Vulci,warrior leaving home,413393
+66,Florence 3988,Stamnoi, ,Dionysos with satyr and maenad, 
+67,Munich 2403,Stamnoi,Vulci,413393
+68,Vatican,Stamnoi, , ,
+69,Wurzburg 540,Dinos,Vulci,Peleus and Thetis,413393
+70,London-Lawrence,Hydriai(Large),Greece,Athena and boy,1001896 
+71,Lost,Hydriai(Small), ,Mistress and maid, 
+72,New York 49.11.6,Hydriai(Small), ,Youth with spear(Theseus?) pursuing a woman, 
+73,Mariemont G 131,Hydriai(Small), , Nike, 
+74,Montpellier S.A. 132,Oinochoai(Shape 1), ,Dionysos and maenad-Early, 
+75,Vienna 350,Oinochoai(Shape 1), ,Maenad, 
+76,London E 523,Oinochoai(Shape 2-high handle),Vulci,Goddess and winged goddess,413393
+77,Louvre G 438,Oinochoai(Shape 2-high handle),Vulci,Eos and Tithonos,413393
+78,Athens Agora P 5729, Oinochoai(Shape 3-chous),Athens,Dionysos and satyr,579885
+79,Cambridge 37.29, Lekythoi, ,Athena and Nike. Restored. Earlier(RF), 
+80,Syracuse 21186,Lekythoi,Gela,Artemis and woman(RF),462214
+81,Cambridge 37.30,Lekythoi, ,Hermes and woman(Hebe?)(RF), 
+82,Oxford 324,Lekythoi,Marion,Aphrodite on the swan(RF),707574
+83,Palermo,Lekythoi,Selinus,Herakles and Athena(RF),462489
+84,Boston 01.8077,Lekythoi,Selinus,Zeus pursuing a woman(RF),462489
+85,Syracuse 21870, Lekythoi,Gela,Woman fleeing(RF),462214
+86,Bonn,Lekythoi, ,Woman fleeing to the right and looking around(RF), 
+87,Syracuse 21133, Lekythoi,Gela,Young warrior pursuing a woman(RF),462214
+88,Villa Giulia,Lekythoi, ,Eos and Kephalos looking around(RF),  
+89,Munich,Lekythoi,Athens,youth running and looking around(RF),579885
+90,Arlesheim,Lekythoi, ,Oedipus and the Sphinx(RF),
+91,Louvre G 444,Lekythoi, ,Nike and warrior. On the shoulder. Two women and two males.large(RF), 
+92,Syracuse 19894,Lekythoi, ,Nike and youth(RF), 
+93,Oxford 1938.909,Lekythoi,Gela,Youth leaving home(RF),462214
+94,Oxford 1920.104,Lekythoi, ,Youth leaving home(RF), 
+95,Philadelphia 30.51.2,Lekythoi, ,Horseman(RF), 
+96,Athens 1293,Lekythoi,Eretria,Youth riding to tomb(RF),579925
